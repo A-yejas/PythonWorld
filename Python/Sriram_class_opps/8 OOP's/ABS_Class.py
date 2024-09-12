@@ -18,7 +18,7 @@ class One(metaclass=ABCMeta):
 # a = One()
 # a.add()
 
-## If you inheritence an abstaruact class you should impliment that all those methods which are abstract ,methods
+# If you inheritence an abstaruact class you should impliment that all those methods which are abstract, methods
 @abstractmethod
 class Two(One):
     def add(self):

@@ -1,4 +1,5 @@
-# Using @staticmethod decorator we can create static method. For Static method self argument doesn't required.
+# Using @staticmethod decorator we can create static method. For Static method self argument doesn't
+# required.
 # Using @classmethod decorator we can create Class method. For class method we have to give cls argument.
 
 class One():
